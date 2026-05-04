@@ -28,7 +28,7 @@ name: Munib Sajjad
 location: Pakistan 🇵🇰
 role: Full Stack Developer
 portfolio: https://munibportfolio.online/
-email: 464muneeb@gmail.com
+Email: 464muneeb@gmail.com
 ```
 
 - 🔭 Currently building **[Spin & Shine](http://shinespanproject.netlify.app/)** — a live project in progress
@@ -100,9 +100,7 @@ email: 464muneeb@gmail.com
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:464muneeb@gmail.com)
 
 </div>
-
 ---
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
