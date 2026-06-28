@@ -26,7 +26,7 @@
 ```yaml
 name: Munib Sajjad
 location: Pakistan 🇵🇰
-role: Full Stack Developer
+role: Full Stack MERN Developer
 portfolio: https://munibportfolio.online/
 Email: 464muneeb@gmail.com
 ```
