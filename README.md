@@ -30,8 +30,7 @@ role: Full Stack MERN Developer
 portfolio: https://munibportfolio.online/
 Email: 464muneeb@gmail.com
 ```
-
-- 🔭 Currently building **[Spin & Shine](http://shinespanproject.netlify.app/)** — a live 
+ 
 - 🌱 Deep-diving into **Agentic AI & n8n** automation workflows
 - 👯 Open to collaborate on **[Elite Alps](https://elitealps.com/)**
 - 💬 Ask me anything about **React.js · Next.js · Node.js**
