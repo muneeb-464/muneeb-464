@@ -32,7 +32,6 @@ Email: 464muneeb@gmail.com
 ```
  
 - 🌱 Deep-diving into **Agentic AI & n8n** automation workflows
-- 👯 Open to collaborate on **[Elite Alps](https://elitealps.com/)**
 - 💬 Ask me anything about **React.js · Next.js · Node.js**
 - 📄 Explore my work → **[munibportfolio.online](https://munibportfolio.online/)**
 
