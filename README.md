@@ -37,7 +37,7 @@ Email: 464muneeb@gmail.com
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophie
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muneeb-464&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
