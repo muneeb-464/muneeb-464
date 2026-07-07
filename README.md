@@ -86,7 +86,7 @@ Email: 464muneeb@gmail.com
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect with M
 
 <div align="center">
 
