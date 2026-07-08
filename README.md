@@ -45,7 +45,7 @@ Email: 464muneeb@gmail.com
 
 ---
 
-## 🛠️ Tech-Stack
+## 🛠️ Tech-Stack 
 
 ### 🎨 Frontend
 <p>
