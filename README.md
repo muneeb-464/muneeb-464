@@ -57,7 +57,7 @@ Email: 464muneeb@gmail.com
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools & Platforms 
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,aws,heroku,figma,ps,illustrator,python" />
 </p>
