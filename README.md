@@ -78,7 +78,7 @@ Email: 464muneeb@gmail.com
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-464&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
