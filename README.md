@@ -11,8 +11,8 @@
 <br/> 
 
 <!-- Profile Views & Twitter -->
-<img src="https://komarev.com/ghpvc/?username=muneeb-464&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=muneeb-464&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> 
+&nbsp; 
 <a href="https://twitter.com/munib464">
   <img src="https://img.shields.io/twitter/follow/munib464?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter Follow" />
 </a>
