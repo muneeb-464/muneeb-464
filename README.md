@@ -1,5 +1,5 @@
 <div align="center"> 
-
+ 
 <!-- Animated Header Banner-->
 <img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Munib%20Sajjad&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Pakistan%20🇵🇰&descAlignY=55&descSize=18" />
  
